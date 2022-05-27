@@ -9,7 +9,7 @@
     width: 100%;
     height: 100vh;
     background-image:
-      url('images/logo.jpg');
+      url('./images/logo.jpg');
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -179,6 +179,7 @@ section .btn2 {
   100% {
     content: "";
   }
+}
 
 
 /* main part cording :end */
